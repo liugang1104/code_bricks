@@ -16,12 +16,6 @@ dependencies:
   flutter_riverpod: ^1.0.0
   hooks_riverpod: ^1.0.0
   json_annotation: ^4.4.0
-  consul:
-    path: ../../plugins/consul
-  app_ui:
-    path: ../../plugins/app_ui
-  foundation:
-    path: ../../plugins/foundation
   {{project}}_interface:
     path: ../{{project}}/{{project}}_interface
 
